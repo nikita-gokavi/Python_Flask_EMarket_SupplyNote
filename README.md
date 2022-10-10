@@ -1,6 +1,8 @@
 # Python_Flask_EMarket_SupplyNote
 A fullstack assignment of creating a web app with certain constraints
 
+Website link: http://nikitaflaskemart-env.eba-keyvidtt.us-east-1.elasticbeanstalk.com/
+
 Hi there, I am Nikita , a tech enthusiast !
 Here is the code for a full stack project assignment for below usecase:
 
